@@ -1,16 +1,16 @@
-BOT KICK.
 
-Bot akan langsung kick kalau ada 
-- Member Ngusir Member lain atau Calon Member Lain
-
-Fungsinya :
-- Cek Speed Bot
-- Kick semua member
-- NgeTag semua member ( Beta )
 
 Keyword :
 - Speed = Buat test kecepatan Bot
-- Kick all = Buat mulai ngekick member satu per satu
-- Tag all = Tag semua member ( Beta )
+- Kick all = 
+Pkg install python2 
+pkg install git 
+pkg install nano
+ git clone http://github.com/Berandal378/Malam
+pip2 install rsa 
+pip2 install thrift == 0.9.3
+pip2 install requests
+cd BotNakal
+ls
+python2 berandal.py
 
-Created By MKHADAFFY
